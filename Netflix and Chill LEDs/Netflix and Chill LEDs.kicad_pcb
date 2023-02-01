@@ -58,7 +58,7 @@
     (pad_to_mask_clearance 0)
     (aux_axis_origin 70.308122 146.341828)
     (pcbplotparams
-      (layerselection 0x0000030_80000001)
+      (layerselection 0x0000030_fffffff9)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
@@ -86,9 +86,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "Gerber/")
     )
   )
 
@@ -6832,7 +6832,6 @@
   (segment (start 178.725 59.225) (end 177.05 60.9) (width 0.4) (layer "F.Cu") (net 3) (tstamp 146c90e1-6760-4786-8638-10ef80212e70))
   (segment (start 205.975 39.225) (end 204.3 40.9) (width 0.4) (layer "F.Cu") (net 3) (tstamp 14aa2979-8c14-4b4b-b137-80b67056079e))
   (segment (start 129.208274 57.675) (end 149.9 57.675) (width 0.4) (layer "F.Cu") (net 3) (tstamp 14f1cce2-0c78-41a6-8362-d4c07ed5c4ce))
-  (segment (start 59.725 80.25) (end 59.725 80.158274) (width 0.4) (layer "F.Cu") (net 3) (tstamp 15a23700-1c61-43ed-adc7-bf613cf2f736))
   (segment (start 205.975 80.25) (end 205.975 80.158274) (width 0.4) (layer "F.Cu") (net 3) (tstamp 17c597ce-6e02-41c3-bee1-c3a2719d2b43))
   (segment (start 159.475 96.158274) (end 160.458274 95.175) (width 0.4) (layer "F.Cu") (net 3) (tstamp 17dcf7e4-84ca-4126-af46-9a35d6786622))
   (segment (start 136.475 38.75) (end 136.475 39.225) (width 0.4) (layer "F.Cu") (net 3) (tstamp 1971109a-e204-4b50-8004-f81b866f25f8))
